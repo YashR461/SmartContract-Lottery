@@ -1,6 +1,8 @@
-# You are tasked with designing a Solidity smart contract called TweetContract that simulates a basic social media platform's
-# functionalities. The contract should allow users to post tweets, send messages, follow other users, and manage access
-# permissions. Implement the following:
+# Voting Smart Contract
+
+## You are tasked with designing a Solidity smart contract called TweetContract that simulates a basic social media platform's  functionalities. The contract should allow users to post tweets, send messages, follow other users, and manage access permissions. 
+
+## Implement the following:
 
 ## 1. Tweeting:
     • Create a function to allow users to post a tweet. This function should store the tweet's content, the author's address, and
